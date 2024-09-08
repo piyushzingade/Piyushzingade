@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Sahil Singh</h1>
+<h1 align="center">Hi 👋, I'm Piyush Zinagde</h1>
 <h3 align="center">A passionate Full Stack Web Developer</h3>
 
 <div align="center">
@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilsinghs15&label=Profile%20views&color=0e75b6&style=flat" alt="sahilsinghs15" /> </p>
 
-- 🔭 I’m currently working on **Backend of Chatbot Application**
+- 🔭 I’m currently working on **frontend of Chatbot Application**
 
 - 🌱 I’m currently learning **React Native, Firebase**
 
@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Reactjs, Nodejs, DSA**
 
-- 📫 How to reach me **sahilsingh1413@gmail.com**
+- 📫 How to reach me **piyushzingade@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
