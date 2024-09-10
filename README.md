@@ -1,92 +1,74 @@
+<!--
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+There!+👋;This+is+Vatsal+🥲;Frontend+Developer+🥺;React+|+NextJs+|+TypeScript+|+Sass+🚀;Have+a+great+day+✨&width=800&color=2Ec4b6&center=true&size=30">
+  <a>
+</h1>
 
-<h1 align="center">Hi 👋, I'm Piyush Zinagde</h1>
-<h3 align="center">A passionate Full Stack Web Developer</h3>
+<h3 align="center">A passionate self taught Web Developer, who wants to explore every tech stack 🇮🇳</h3>
 
+
+[![My Portfolio](https://user-images.githubusercontent.com/68834718/258624703-5836ddb2-7000-455f-9772-bf375457d711.png)](https://vatsalsinghkv.vercel.app/)
+-->
+<h2>About Me</h2>
+  
+- 👩🏻‍💻 I am a first year Computer Science Postgraduate (MCA) at **[University of Mumbai](https://mu.ac.in/)**
+- ☀️ Contributing to **[open-source projects](https://github.com/pulls?q=author%3Avatsalsinghkv+is%3Apr+)** (Open Source is always fun)
+- 🏃 In absolute love with **ReactJs & NextJs with TypeScript & TailwindCSS** and building web applications with it
+- 📖 I’m currently learning **Mobile Development with React Native & Data Structures and Algorithms**
+    
+<h2>Domain of interests</h2>
+    
+- 💻 Full-stack Web Develppment
+- 🦾 Artificial Intelligence
+  
+<h2>Languages & Tools</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,cpp,py,java,mysql,mongodb" alt="programming languages" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,expressjs,prisma,jquery,redux,jest,sass,bootstrap,tailwind,materialui" alt="frameworks" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,figma,firebase,ai,ps" alt="tools" />
+</p>  
+    
+<h2></h2>
+
+<!-- Holopin Profile 
+<h2> My Holopin Profile</h2>
 <div align="center">
-  <img src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif" alt="Coder Gif" style="width:300px;"/>
+  
+[![An image of @vatsalsinghkv's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vatsalsinghkv)](https://holopin.io/@vatsalsinghkv)
+
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilsinghs15&label=Profile%20views&color=0e75b6&style=flat" alt="sahilsinghs15" /> </p>
+ <h2></h2>
 
-- 🔭 I’m currently working on **frontend of Chatbot Application**
-
-- 🌱 I’m currently learning **React Native, Firebase**
-
-- 👯 I’m looking to collaborate on **Open Source**
-
-- 💬 Ask me about **Reactjs, Nodejs, DSA**
-
-- 📫 How to reach me **piyushzingade@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/sahil-singh-4021a8249/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sahil-singh-4021a8249/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/sahilsingh15/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/sahilsingh15/" height="30" width="40" /></a>
+<p>
+  <img src="https://github-readme-stats-kv.vercel.app/api?username=vatsalsinghkv&theme=github_dark&show_icons=true&count_private=true&hide_border=true"  width="48%" alt="Vatsal's github-readme-stats"/>
+  <img src="https://github-readme-streak-stats-kv.vercel.app?user=vatsalsinghkv&theme=tokyonight_duo&hide_border=true" width="48%" alt="Vatsal's github-readme-streak-stats"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> 
-  </a> 
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a> 
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
-  </a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-  </a> 
+<p>
+  <img width="58%" align="top" src="https://github-readme-stats.vercel.app/api/wakatime?username=vatsalsinghkv&theme=github_dark&hide_border=true&layout=compact&langs_count=6&v=2" alt="Vatsal's wakatime stats"/>
+    <img width="38%" src="https://github-readme-stats-kv.vercel.app/api/top-langs?username=vatsalsinghkv&show_icons=true&theme=github_dark&locale=en&layout=compact&hide_border=true" alt="vatsalsinghkv" />
+
+<h2></h2>
+-->
+
+<!-- Activity Graph -->
+<p align="center">
+    <img src="https://github-readme-activity-graph-kv.vercel.app/graph?username=piyushzingade&theme=react-dark&color=38bdf8&line=38bdf8&hide_border=true&hide_title=false&area=true" width="100%" alt="activity graph">
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahilsinghs15&show_icons=true&locale=en&layout=compact" alt="sahilsinghs15" /></p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=piyushzingade&theme=tokyonight&hide_border=true"  width="64%" alt="piyushzingade profile-details"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=piyushzingade&theme=tokyonight"  width="31%" alt="piyushzingade github stats"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sahilsinghs15&show_icons=true&locale=en" alt="sahilsinghs15" /></p>
+<!-- <p align="center">
+<img src="https://profile-counter.glitch.me/{vatsalsinghkv}/count.svg" alt="Vatsal :: Visitor's Count" />
+</p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahilsinghs15&" alt="sahilsinghs15" /></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=piyushzingade&label=Profile%20views&color=0ea5e9&style=flat" alt="piyushzingade" /> </p>
