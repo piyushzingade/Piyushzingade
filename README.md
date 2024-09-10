@@ -51,9 +51,9 @@
 </p>
 <!--
 <p>
-  <img width="58%" align="top" src="https://github-readme-stats.vercel.app/api/wakatime?username=piyushzingade&theme=github_dark&hide_border=true&layout=compact&langs_count=6&v=2" alt="piyushzingade's wakatime stats"/>
+  <img width="58%" align="top" src="https://github-readme-stats.vercel.app/api/wakatime?username=piyushzingade&theme=github_dark&hide_border=true&layout=compact&langs_count=6&v=2" alt="piyushzingade's wakatime stats"/> -->
     <img width="38%" src="https://github-readme-stats-kv.vercel.app/api/top-langs?username=piyushzingade&show_icons=true&theme=github_dark&locale=en&layout=compact&hide_border=true" alt="piyushzingade" />
--->
+
 <h2></h2>
 
 <!-- Activity Graph -->
