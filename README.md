@@ -12,7 +12,7 @@
 -->
 <h2>About Me</h2>
   
-- 👩🏻‍💻 I am a first year Computer Science Postgraduate (MCA) at **[University of Mumbai](https://mu.ac.in/)**
+- 👩🏻‍💻 I am a Third year Information Technology Undergraduate (Bsc.IT) at **[University of Mumbai](https://mu.ac.in/)**
 - ☀️ Contributing to **[open-source projects](https://github.com/pulls?q=author%3Avatsalsinghkv+is%3Apr+)** (Open Source is always fun)
 - 🏃 In absolute love with **ReactJs & NextJs with TypeScript & TailwindCSS** and building web applications with it
 - 📖 I’m currently learning **Mobile Development with React Native & Data Structures and Algorithms**
