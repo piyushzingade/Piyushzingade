@@ -27,10 +27,10 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,cpp,py,java,mysql,mongodb" alt="programming languages" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,expressjs,prisma,jquery,redux,jest,sass,bootstrap,tailwind,materialui" alt="frameworks" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,expressjs,prisma,redux,jest,sass,bootstrap,tailwind,materialui" alt="frameworks" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,figma,firebase,ai,ps" alt="tools" />
+  <img src="https://skillicons.dev/icons?i=vscode,figma,ai,ps" alt="tools" />
 </p>  
     
 <h2></h2>
