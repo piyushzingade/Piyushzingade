@@ -11,13 +11,13 @@
 [![My Portfolio](https://user-images.githubusercontent.com/68834718/258624703-5836ddb2-7000-455f-9772-bf375457d711.png)](https://vatsalsinghkv.vercel.app/)
 -->
 <p align="center">
-  <img src="assets/header.png"/>
+  <img src="./header.png"/>
 </p>
 <p align="center">
    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=35&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Piyush+Zingade;" width="auto" height="35"/>
 </p>
 <p align="center">
-  <img alt="Coding GIF" width="300" height="auto" src="assets/coding.gif"/>
+  <img alt="Coding GIF" width="300" height="auto" src="coding.gif"/>
 </p>
 <h2>About Me</h2>
   
