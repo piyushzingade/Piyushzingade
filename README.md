@@ -10,6 +10,15 @@
 
 [![My Portfolio](https://user-images.githubusercontent.com/68834718/258624703-5836ddb2-7000-455f-9772-bf375457d711.png)](https://vatsalsinghkv.vercel.app/)
 -->
+<p align="center">
+  <img src="assets/header.png"/>
+</p>
+<p align="center">
+   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=35&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Samarjit+Sahoo;Software+Engineer" width="auto" height="35"/>
+</p>
+<p align="center">
+  <img alt="Coding GIF" width="300" height="auto" src="assets/coding.gif"/>
+</p>
 <h2>About Me</h2>
   
 - 👩🏻‍💻 I am a Third year Information Technology Undergraduate (Bsc.IT) at **[University of Mumbai](https://mu.ac.in/)**
