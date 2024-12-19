@@ -29,7 +29,7 @@
 <h2>Domain of interests</h2>
     
 - 💻 Full-stack Web Develppment
-- 🦾 Artificial Intelligence
+- 🦾 Open Soucre
   
 <h2>Languages & Tools</h2>
 <p align="center">
