@@ -33,7 +33,7 @@
   
 <h2>Languages & Tools</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,cpp,py,java,mysql,mongodb" alt="programming languages" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,cpp,py,postgres,mysql,mongodb" alt="programming languages" />
 </p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,expressjs,prisma,redux,jest,sass,bootstrap,tailwind,materialui" alt="frameworks" />
