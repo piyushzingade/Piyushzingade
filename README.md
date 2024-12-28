@@ -74,15 +74,7 @@
 
 <h2></h2>
 
-<!-- Activity Graph -->
-<p align="center">
-    <img src="https://github-readme-activity-graph-kv.vercel.app/graph?username=piyushzingade&theme=react-dark&color=38bdf8&line=38bdf8&hide_border=true&hide_title=false&area=true" width="100%" alt="activity graph">
-</p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=piyushzingade&theme=tokyonight&hide_border=true"  width="64%" alt="piyushzingade profile-details"/>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=piyushzingade&theme=tokyonight"  width="31%" alt="piyushzingade github stats"/>
-</p>
 
 <!-- <p align="center">
 <img src="https://profile-counter.glitch.me/{vatsalsinghkv}/count.svg" alt="Vatsal :: Visitor's Count" />
