@@ -52,17 +52,25 @@
 
 </div>
 -->
- <h2>Github Stats</h2>
+# 📊 GitHub Stats:
 
-<p>
-  <img src="https://github-readme-stats-kv.vercel.app/api?username=piyushzingade&theme=github_dark&show_icons=true&count_private=true&hide_border=true"  width="48%" alt="piyushzingade's github-readme-stats"/>
-  ![](https://github-readme-stats.vercel.app/api?username=piyushzingade&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=piyushzingade&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=piyushzingade&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-</p>
-
-<p align="center">
-    <img width="38%" src="https://github-readme-stats-kv.vercel.app/api/top-langs?username=piyushzingade&show_icons=true&theme=github_dark&locale=en&layout=compact&hide_border=true" alt="piyushzingade" />
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=JKrishnaD&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=JKrishnaD&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JKrishnaD&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 <h2></h2>
 
