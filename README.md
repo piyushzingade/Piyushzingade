@@ -22,8 +22,8 @@
 <h2>About Me</h2>
 
 <!-- ☀️ Contributing to **[open-source projects](https://github.com/pulls?q=author%3Apiyushzingade+is%3Apr+)** (Open Source is always fun) -->
-- 🏃 In absolute love with **ReactJs & NextJs with TypeScript & TailwindCSS** and building web applications with it
-- 📖 I’m currently learning **Web3 & Devops**
+-🏃 Absolutely in love with React.js & Next.js, crafting scalable web apps using TypeScript & Tailwind CSS                          
+-🎨 Design-focused Frontend Engineer, constantly sharpening my UI/UX skills and getting better at turning ideas into polished, intuitive interfaces
     
 <h2>Domain of interests</h2>
     
